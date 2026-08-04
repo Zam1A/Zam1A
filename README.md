@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./assets/kaguya.jpg" alt="Kaguya under a red umbrella" width="100%" />
-
   <h1>Yan</h1>
 
   <p>
@@ -12,6 +10,8 @@
     <img src="https://img.shields.io/badge/Mood-Polished%20Details-7c3aed?style=for-the-badge" alt="Mood: Polished Details" />
     <img src="https://img.shields.io/badge/Status-Always%20Learning-14b8a6?style=for-the-badge" alt="Status: Always Learning" />
   </p>
+
+  <img src="./assets/kaguya.jpg" alt="Kaguya under a red umbrella" width="100%" />
 </div>
 
 ## About
