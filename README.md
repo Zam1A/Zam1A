@@ -41,10 +41,14 @@ I enjoy turning ideas into clean digital experiences: interfaces that feel intui
   <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=f05032" alt="Git" />
 </p>
 
-## Contribution Heatmap
+## Contribution Snake
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/ff4d8d/Zam1A" alt="Yan's GitHub contribution heatmap" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zam1A/Zam1A/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zam1A/Zam1A/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Zam1A/Zam1A/output/github-contribution-grid-snake.svg" alt="Yan's GitHub contribution snake animation" width="100%" />
+  </picture>
 </div>
 
 ## Current Direction
