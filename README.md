@@ -6,7 +6,7 @@
   </p>
 
   <p>
-    <img src="./assets/profile-tags.svg" alt="Interest: UI/UX | Focus: AI | Build: Software Development" width="566" />
+    <img src="./assets/profile-tags.svg" alt="Interest: UI/UX | Focus: AI | Build: Software Development" width="442" />
   </p>
 
   <img src="./assets/kaguya.jpg" alt="Kaguya under a red umbrella" width="100%" />
@@ -29,14 +29,14 @@ I enjoy turning ideas into clean digital experiences: interfaces that feel intui
 ## Tech Palette
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776ab" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572b6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=f05032" alt="Git" />
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" alt="Figma" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61dafb" alt="React" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" /></a>
+  <a href="https://tc39.es/ecma262/"><img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776ab" alt="Python" /></a>
+  <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5" /></a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572b6" alt="CSS3" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=f05032" alt="Git" /></a>
 </p>
 
 ## Contribution Snake
