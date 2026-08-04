@@ -1,14 +1,17 @@
 <div align="center">
+  <img src="./assets/dark-profile-card.svg" alt="Yan - UI/UX, AI, and Software Development" width="100%" />
+
   <h1>Yan</h1>
 
   <p>
-    <strong>Code with clarity, build with taste.</strong>
+    <strong>UI/UX, AI, and software development.</strong>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Focus-Clean%20Interfaces-ff4d8d?style=for-the-badge" alt="Focus: Clean Interfaces" />
-    <img src="https://img.shields.io/badge/Mood-Polished%20Details-7c3aed?style=for-the-badge" alt="Mood: Polished Details" />
-    <img src="https://img.shields.io/badge/Status-Always%20Learning-14b8a6?style=for-the-badge" alt="Status: Always Learning" />
+    <img src="https://img.shields.io/badge/QUT-Computer%20Science%20Graduate-000000?style=for-the-badge&labelColor=111111&color=2dd4bf" alt="QUT Computer Science Graduate" />
+    <img src="https://img.shields.io/badge/Interest-UI%2FUX-000000?style=for-the-badge&labelColor=111111&color=ff4d8d" alt="Interest: UI/UX" />
+    <img src="https://img.shields.io/badge/Focus-AI-000000?style=for-the-badge&labelColor=111111&color=8b5cf6" alt="Focus: AI" />
+    <img src="https://img.shields.io/badge/Build-Software%20Development-000000?style=for-the-badge&labelColor=111111&color=60a5fa" alt="Build: Software Development" />
   </p>
 
   <img src="./assets/kaguya.jpg" alt="Kaguya under a red umbrella" width="100%" />
@@ -16,42 +19,43 @@
 
 ## About
 
-Hi, I'm Yan. I enjoy building things that feel clean, useful, and a little memorable.
+I'm Yan, a QUT Bachelor of Computer Science graduate with a strong interest in UI/UX, AI, and software development.
 
-I care about readable code, focused interfaces, and small details that make a project feel alive.
+I enjoy turning ideas into clean digital experiences: interfaces that feel intuitive, AI features that feel useful, and software that is practical enough to ship.
+
+## Interests
+
+| Area | What I enjoy |
+| --- | --- |
+| UI/UX | Interface design, interaction flow, visual polish, and user-centered product thinking |
+| AI | AI-assisted tools, intelligent workflows, prompt-driven products, and practical automation |
+| Software Development | Building maintainable web apps, developer tools, and polished personal projects |
 
 ## Tech Palette
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776ab" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572b6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=f05032" alt="Git" />
 </p>
-
-## What I Like To Build
-
-| Area | What I care about |
-| --- | --- |
-| Frontend | Interfaces that are easy to scan, smooth to use, and pleasant to revisit |
-| Tools | Small automations that remove repetitive work and keep momentum flowing |
-| Learning | Turning experiments into notes, demos, and reusable patterns |
 
 ## Current Direction
 
-- Sharpening frontend engineering fundamentals
-- Exploring cleaner developer workflows
-- Building projects that balance utility with visual polish
+- Designing cleaner UI/UX systems for web experiences
+- Exploring AI-powered workflows and practical AI product ideas
+- Building software projects that combine usability, intelligence, and solid engineering
 
 ## Featured Space
 
-> A quiet corner for projects, notes, and experiments.
+> A dark-mode corner for UI experiments, AI ideas, and software development projects.
 
-When new work is ready, this is where the highlights can live.
+More project highlights can live here as they grow.
 
 <div align="center">
-  <sub>Thanks for stopping by.</sub>
+  <sub>QUT Computer Science Graduate | UI/UX | AI | Software Development</sub>
 </div>
