@@ -6,9 +6,7 @@
   </p>
 
   <p>
-    <kbd>Interest: UI/UX</kbd>
-    <kbd>Focus: AI</kbd>
-    <kbd>Build: Software Development</kbd>
+    <img src="./assets/profile-tags.svg" alt="Interest: UI/UX | Focus: AI | Build: Software Development" width="566" />
   </p>
 
   <img src="./assets/kaguya.jpg" alt="Kaguya under a red umbrella" width="100%" />
