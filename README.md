@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./assets/dark-profile-card.svg" alt="Yan - UI/UX, AI, and Software Development" width="100%" />
-
   <h1>Yan</h1>
 
   <p>
@@ -8,7 +6,6 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/QUT-Computer%20Science%20Graduate-000000?style=for-the-badge&labelColor=111111&color=2dd4bf" alt="QUT Computer Science Graduate" />
     <img src="https://img.shields.io/badge/Interest-UI%2FUX-000000?style=for-the-badge&labelColor=111111&color=ff4d8d" alt="Interest: UI/UX" />
     <img src="https://img.shields.io/badge/Focus-AI-000000?style=for-the-badge&labelColor=111111&color=8b5cf6" alt="Focus: AI" />
     <img src="https://img.shields.io/badge/Build-Software%20Development-000000?style=for-the-badge&labelColor=111111&color=60a5fa" alt="Build: Software Development" />
@@ -52,10 +49,10 @@ I enjoy turning ideas into clean digital experiences: interfaces that feel intui
 
 ## Featured Space
 
-> A dark-mode corner for UI experiments, AI ideas, and software development projects.
+> A focused space for UI experiments, AI ideas, and software development projects.
 
 More project highlights can live here as they grow.
 
 <div align="center">
-  <sub>QUT Computer Science Graduate | UI/UX | AI | Software Development</sub>
+  <sub>UI/UX | AI | Software Development</sub>
 </div>
