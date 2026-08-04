@@ -49,18 +49,6 @@ I enjoy turning ideas into clean digital experiences: interfaces that feel intui
   </picture>
 </div>
 
-## Current Direction
-
-- Designing cleaner UI/UX systems for web experiences
-- Exploring AI-powered workflows and practical AI product ideas
-- Building software projects that combine usability, intelligence, and solid engineering
-
-## Featured Space
-
-> A focused space for UI experiments, AI ideas, and software development projects.
-
-More project highlights can live here as they grow.
-
 <div align="center">
   <sub>UI/UX | AI | Software Development</sub>
 </div>
