@@ -41,6 +41,12 @@ I enjoy turning ideas into clean digital experiences: interfaces that feel intui
   <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=f05032" alt="Git" />
 </p>
 
+## Contribution Heatmap
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/ff4d8d/Zam1A" alt="Yan's GitHub contribution heatmap" width="100%" />
+</div>
+
 ## Current Direction
 
 - Designing cleaner UI/UX systems for web experiences
