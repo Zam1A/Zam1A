@@ -1,0 +1,22 @@
+<svg width="430" height="72" viewBox="0 0 430 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Hi there, I'm Yan.</title>
+  <defs>
+    <linearGradient id="titleGradient" x1="20" y1="18" x2="410" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4D8D"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <clipPath id="typingClip">
+      <rect x="0" y="0" width="0" height="72">
+        <animate attributeName="width" values="0;398;398" keyTimes="0;0.78;1" dur="3.8s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#typingClip)">
+    <text x="20" y="50" textLength="374" lengthAdjust="spacingAndGlyphs" fill="url(#titleGradient)" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="750" letter-spacing="0">Hi there, I'm Yan.</text>
+  </g>
+  <rect x="20" y="17" width="4" height="42" rx="2" fill="#FF4D8D">
+    <animate attributeName="x" values="20;398;398" keyTimes="0;0.78;1" dur="3.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

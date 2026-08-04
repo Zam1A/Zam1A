@@ -1,9 +1,5 @@
 <div align="center">
-  <h1>Yan</h1>
-
-  <p>
-    <strong>UI/UX, AI, and software development.</strong>
-  </p>
+  <img src="./assets/animated-title.svg" alt="Hi there, I'm Yan." width="430" />
 
   <p>
     <img src="./assets/profile-tags.svg" alt="Interest: UI/UX | Focus: AI | Build: Software Development" width="442" />
@@ -16,15 +12,7 @@
 
 I'm Yan, a QUT Bachelor of Computer Science graduate with a strong interest in UI/UX, AI, and software development.
 
-I enjoy turning ideas into clean digital experiences: interfaces that feel intuitive, AI features that feel useful, and software that is practical enough to ship.
-
-## Interests
-
-| Area | What I enjoy |
-| --- | --- |
-| UI/UX | Interface design, interaction flow, visual polish, and user-centered product thinking |
-| AI | AI-assisted tools, intelligent workflows, prompt-driven products, and practical automation |
-| Software Development | Building maintainable web apps, developer tools, and polished personal projects |
+I enjoy turning ideas into clean digital experiences: interface design with thoughtful interaction flow, AI-assisted tools and practical automation, and maintainable software projects that are polished enough to ship.
 
 ## Tech Palette
 
