@@ -6,9 +6,9 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Interest-UI%2FUX-000000?style=for-the-badge&labelColor=111111&color=ff4d8d" alt="Interest: UI/UX" />
-    <img src="https://img.shields.io/badge/Focus-AI-000000?style=for-the-badge&labelColor=111111&color=8b5cf6" alt="Focus: AI" />
-    <img src="https://img.shields.io/badge/Build-Software%20Development-000000?style=for-the-badge&labelColor=111111&color=60a5fa" alt="Build: Software Development" />
+    <kbd>Interest: UI/UX</kbd>
+    <kbd>Focus: AI</kbd>
+    <kbd>Build: Software Development</kbd>
   </p>
 
   <img src="./assets/kaguya.jpg" alt="Kaguya under a red umbrella" width="100%" />
